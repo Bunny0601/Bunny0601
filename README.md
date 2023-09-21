@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="">
+<img align="center" width="100%" src="WhatsApp Image 2023-09-21 at 16.33.44.jpg">
 <h1 align="center">Hi 👋, I'm Gourav Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
